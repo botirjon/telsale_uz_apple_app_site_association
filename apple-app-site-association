@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["V2XNAAY7J7.com.telsale.uz"],
+            "components": [{
+                "/": "/product/*",
+                "comment": "Matches any URL whose path starts with /product/"
+            }]
+        }]
+    }
+}
